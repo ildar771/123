@@ -14,9 +14,9 @@
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="400dp"
-        android:background="#5366E9"
         android:gravity="center"
-        android:orientation="vertical">
+        android:orientation="vertical"
+        android:background="@drawable/ooo" >
 
         <ImageView
             android:id="@+id/imageView4"
@@ -36,22 +36,16 @@
 
     </LinearLayout>
 
-    <LinearLayout
 
-    <Button
-        android:layout_width="309dp"
-        android:layout_height="wrap_content"
+    <TextView
+        android:layout_width="366dp"
+        android:layout_height="50dp"
         android:layout_margin="58dp"
         android:background="@drawable/gdfgdf"
-        android:backgroundTint="#5366E9"
         android:text="Continuo with facebook"
-        android:textSize="12sp">
+        android:gravity="center"
+        android:textSize="25dp" />
 
-    </Button>
-    android:layout_width="match_parent"
-    android:layout_height="match_parent"
-    android:orientation="vertical"
-    android:gravity="center|bottom"
 
         <TextView
             android:layout_width="wrap_content"
