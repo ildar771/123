@@ -8,7 +8,6 @@
     android:weightSum="100"
     android:gravity="center_horizontal">
 
-    <
 
 
     <LinearLayout
@@ -42,9 +41,11 @@
         android:layout_height="50dp"
         android:layout_margin="58dp"
         android:background="@drawable/gdfgdf"
-        android:text="Continuo with facebook"
         android:gravity="center"
-        android:textSize="25dp" />
+        android:text="Continuo with facebook"
+        android:textColor="#FFFFFF"
+        android:textSize="25dp"
+        android:textcolor="#FDFDFD" />
 
 
         <TextView
